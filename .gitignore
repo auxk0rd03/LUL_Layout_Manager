@@ -1,2 +1,12 @@
 .env
 test.py
+test.rs
+Cargo.toml
+practice.py
+
+practice
+
+# Added by cargo
+
+/target
+main.rs
